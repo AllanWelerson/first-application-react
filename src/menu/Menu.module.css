@@ -1,0 +1,21 @@
+
+.menu ul li{
+    background-color: midnightblue;
+    list-style: none;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.menu ul li:hover{    
+    background: white;
+    border: 1px solid midnightblue;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu ul li:hover a{
+    color: midnightblue;
+}
